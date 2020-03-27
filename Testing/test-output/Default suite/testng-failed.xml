@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="assignment.DellWebsite_Test">
+      <class name="assignment.Market">
         <methods>
-          <include name="UserWillAbleToWorkInDellSite"/>
+          <include name="UserWillAbleToTransferMoneyToNewAccount"/>
         </methods>
-      </class> <!-- assignment.DellWebsite_Test -->
+      </class> <!-- assignment.Market -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

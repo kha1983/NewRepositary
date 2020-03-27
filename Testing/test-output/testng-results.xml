@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20909" started-at="2020-02-20T20:34:06Z" finished-at="2020-02-20T20:34:27Z">
+  <suite name="Default suite" duration-ms="11205" started-at="2020-03-11T16:44:49Z" finished-at="2020-03-11T16:45:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20909" started-at="2020-02-20T20:34:06Z" finished-at="2020-02-20T20:34:27Z">
-      <class name="assignment.DellWebsite_Test">
-        <test-method status="PASS" signature="UserWillAbleToWorkInDellSite()[pri:0, instance:assignment.DellWebsite_Test@7113b13f]" name="UserWillAbleToWorkInDellSite" duration-ms="20881" started-at="2020-02-20T20:34:06Z" finished-at="2020-02-20T20:34:27Z">
+    <test name="Default test" duration-ms="11205" started-at="2020-03-11T16:44:49Z" finished-at="2020-03-11T16:45:01Z">
+      <class name="assignment.Practice_Two">
+        <test-method status="PASS" signature="AddNewAccountOnTechfiosSite()[pri:0, instance:assignment.Practice_Two@7113b13f]" name="AddNewAccountOnTechfiosSite" duration-ms="11180" started-at="2020-03-11T16:44:49Z" finished-at="2020-03-11T16:45:01Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- UserWillAbleToWorkInDellSite -->
-      </class> <!-- assignment.DellWebsite_Test -->
+        </test-method> <!-- AddNewAccountOnTechfiosSite -->
+      </class> <!-- assignment.Practice_Two -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
